@@ -1,4 +1,4 @@
-setwd("C:/Users/elang/OneDrive/Escritorio/Data Science Cetefication/Exploratory Data Analysis/data_household_power_consumption")
+setwd("C:/Users/users01/OneDrive/Bureau/Data Science Cetefication/Exploratory Data Analysis/data_household_power_consumption")
  # load_data.R
    load_household_data <- function(path = "data_household_power_consumption.txt") {
     +     # 1) Leer todo el archivo (separador ';', missing '?')
